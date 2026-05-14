@@ -61,3 +61,5 @@ I will update the repo as soon as new videos drop.
 ## Contributions
 
 Not looking for huge PRs right now, but if you spot an error or want to add a small improvement, feel free to open an issue.
+
+https://www.youtube.com/watch?v=wBKmv7A0V8o&list=PL-K2rw28HIwYxzgTFmObuFhfctfBPAc6h&index=11
